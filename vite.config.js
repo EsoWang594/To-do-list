@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/todolistapp/',
+  base: '/To-do-list/', 
 })
